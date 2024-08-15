@@ -90,3 +90,25 @@ During the course of this project:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-repo/qeats-backend.git
+2. Navigate to the Project Directory:
+
+bash
+
+    cd qeats-backend
+
+3. Setup Environment:
+   Configure application properties as needed.
+   Ensure MongoDB and Redis are set up and running.
+
+4. Compile and Run:
+   Use Maven or Gradle to build and run the Spring Boot application.
+
+Contribution
+
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
+License
+
+This project is licensed under the MIT License.
+Contact
+
+For any questions or support, please contact shashanktech2@gmail.com.

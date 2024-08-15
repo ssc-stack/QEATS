@@ -106,9 +106,7 @@ bash
 Contribution
 
 Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements.
-License
 
-This project is licensed under the MIT License.
 Contact
 
 For any questions or support, please contact shashanktech2@gmail.com.

@@ -3,6 +3,8 @@
 **XURL** is a Java-based utility designed for creating and managing short URLs. This tool simplifies the use of long URLs by converting them into shorter, more manageable links. Additionally, it tracks URL lookups and supports custom short URL registrations.
 
 ## Features
+![image](https://github.com/user-attachments/assets/ab15c81f-e471-4577-b37d-e67daeaa8301)
+
 
 - **Automatic Short URL Generation**: Converts long URLs into random 9-character short URLs.
 - **Custom Short URL Registration**: Allows users to specify a custom short URL.

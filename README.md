@@ -20,7 +20,7 @@ During the course of this project:
 - Investigated production issues using Scientific Debugging methods.
 - Improved app performance under large load scenarios and added an advanced search feature.
 
-<img src="https://example.com/path/to/your/image.png" alt="QEats Overview" />
+<img src="https://github.com/user-attachments/assets/690130e0-ef04-47e7-aeab-402754d26165" alt="QEats Overview" />
 
 ## Retrieve Restaurant Data for a Given User Location
 
@@ -40,7 +40,8 @@ During the course of this project:
 - JUnit
 - MongoDB
 
-<img src="https://example.com/path/to/your/image.png" alt="Retrieve Restaurant Data" />
+
+<img src="https://github.com/user-attachments/assets/72b71cd0-0151-4263-8215-3762fd7defea" alt="Retrieve Restaurant Data" />
 
 ## Resolve Production Issues Using Scientific Debugging
 
@@ -53,7 +54,7 @@ During the course of this project:
 
 - Scientific Debugging
 
-<img src="https://example.com/path/to/your/image.png" alt="Scientific Debugging" />
+<img src="https://github.com/user-attachments/assets/16a07ee5-a8a0-49fa-bcc7-ae04e7b3a552" alt="Scientific Debugging" />
 
 ## Replicate Performance Issues and Solve Them Using Caching Strategies
 
@@ -81,8 +82,10 @@ During the course of this project:
 
 - MongoDB Querying
 - Multithreading
-
-<img src="https://example.com/path/to/your/image.png" alt="Search Operations" />
+- 
+<img src="https://github.com/user-attachments/assets/7cf69e84-d94f-4cae-8012-32ec74fe9b76" alt="Search Operations" />
+<img src="https://github.com/user-attachments/assets/50e55df4-b75e-4f99-96a6-83ee66bd6c29" alt="Search Operations" />
+<img src="https://github.com/user-attachments/assets/f185313d-660c-4a69-bc65-bbaf4bce8045" alt="Search Operations" />
 
 ## Installation and Setup
 

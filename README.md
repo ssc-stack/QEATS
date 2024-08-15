@@ -54,8 +54,6 @@ During the course of this project:
 
 - Scientific Debugging
 
-<img src="https://github.com/user-attachments/assets/16a07ee5-a8a0-49fa-bcc7-ae04e7b3a552" alt="Scientific Debugging" />
-
 ## Replicate Performance Issues and Solve Them Using Caching Strategies
 
 ### Scope of Work
@@ -69,7 +67,7 @@ During the course of this project:
 - Redis
 - JMeter
 
-<img src="https://example.com/path/to/your/image.png" alt="Caching Strategies" />
+<img src="https://github.com/user-attachments/assets/22caad7b-58fc-4bb5-8880-3813028be1d1" alt="Caching Strategies" />
 
 ## Perform Search Operations Using Custom Attributes
 
